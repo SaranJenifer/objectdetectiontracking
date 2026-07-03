@@ -30,11 +30,7 @@ CodeAlpha_ObjectDetectionTracking/
 ├── yolov8n.pt
 ├── requirements.txt
 ├── README.md
-├── screenshots/
-│   ├── output1.png
-│   └── output2.png
-└── output/
-    └── output_tracked.mp4
+
 ```
 
 ## Installation
